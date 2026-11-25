@@ -12,48 +12,49 @@
 
 ## 👨‍💻 About Me
 
-<table>
+
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-I'm an SEO Specialist passionate about the technical side of the web.
+### ⚡ Current Mission
 
-I enjoy understanding how websites work under the hood — from search engine crawling and indexing to servers, Linux environments, automation and infrastructure.
+I'm constantly exploring the intersection of SEO, technology and infrastructure.
 
-I'm constantly expanding my technical knowledge and exploring the intersection of SEO, IT and DevOps.
+**🔎 SEO & Growth**
+<br/>Technical SEO, crawling, indexing and organic performance.
 
-**🔎 Professional Focus**
-- Technical SEO & Website Optimization
-- Organic Search Growth
-- Website Performance & Crawling
+**🐍 Automation**
+<br/>Python scripting and smarter workflows.
 
-**⚡ Currently Exploring**
-- Linux Administration
-- Python & Automation
-- Docker & Containerization
-- Networking & DevOps Fundamentals
+**🐧 Linux & DevOps**
+<br/>Linux administration, Docker, networking and infrastructure.
 
-**🐧 Homelab**
-- Self-hosted services
-- NAS & Syncthing
-- Linux environments
+**🏠 Homelab**
+<br/>Self-hosted services, NAS and infrastructure experiments.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### 💻 Current Mission
+### 💻 Mission Control
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=700&color=3FB950&vCenter=true&width=430&height=30&lines=%24+./current_mission.sh;%3E+Optimizing+the+web...;%3E+Automating+workflows...;%3E+Learning+Linux+%26+DevOps...;%3E+Building+something+useful..." />
 
 ```bash
-$ cat current_mission.txt
+#!/bin/bash
 
-> Improve SEO performance
-> Understand web infrastructure
-> Automate repetitive tasks
-> Master Linux fundamentals
-> Build practical DevOps skills
-> Experiment with self-hosted services
-> Keep learning and building 🚀
+echo "Mission initialized..."
+
+SEO="Optimize"
+CODE="Automate"
+LINUX="Explore"
+BUILD="Create"
+
+echo "Status: Always Learning"
 ```
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-3FB950?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MINDSET-BUILDING-58A6FF?style=flat-square" />
 
 </td>
 </tr>
