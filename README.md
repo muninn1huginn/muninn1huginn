@@ -7,10 +7,6 @@
 <div align="center">
 
 **SEO & Technical SEO · SaaS Developer · Linux & Infrastructure**
-#
-#<div align="center">
-#  <img src="assets/profile-banner.png" width="350" alt="SEO Tech Automation" />
-#</div>
 
 <br/>
 
