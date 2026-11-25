@@ -8,6 +8,12 @@
 
 **SEO & Technical SEO · SaaS Developer · Linux & Infrastructure**
 
+<div align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="SEO Tech Automation" />
+</div>
+
+<br/>
+
 Building software, automating workflows and exploring infrastructure through hands-on projects.
 
 <br/>
