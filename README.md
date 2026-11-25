@@ -188,10 +188,7 @@ I'm always open to connecting with people interested in SEO, software developmen
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
-
-**Optimize. Automate. Experiment. Repeat.**
-
+<br/>
 </div>
 
 <br/>
