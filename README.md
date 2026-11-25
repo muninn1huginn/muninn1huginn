@@ -106,27 +106,6 @@ Outside of SEO and software development, I'm expanding my skills in Linux, netwo
 
 ---
 
-## 🏗️ Homelab & Infrastructure
-
-I use my homelab as a practical environment for learning, experimenting and understanding how systems operate.
-
-<div align="center">
-
-| Area | Technologies & Interests |
-|:---:|:---:|
-| **Virtualization** | Proxmox VE, Virtual Machines, LXC |
-| **Storage** | TrueNAS, NAS, Datasets, File Sharing |
-| **Containers** | Docker, Docker Compose |
-| **Networking** | TCP/IP, DNS, Routing, Network Services |
-| **Home Automation** | Home Assistant, Zigbee, Integrations |
-| **Synchronization** | Syncthing, Multi-device Sync |
-| **Hardware** | Raspberry Pi, Single-board Computers |
-| **Monitoring** | Logs, Service Health, System Metrics |
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 My current focus is on building practical IT and DevOps foundations through hands-on projects and homelab experiments.
