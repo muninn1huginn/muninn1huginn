@@ -118,39 +118,40 @@ flowchart LR
 
 ---
 
+
 ## 🧊 3D Contribution Calendar
 
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution calendar"/>
-
-</div>
+<p align="center">
+  <img
+    src="profile-3d-contrib/profile-night-view.svg"
+    alt="3D GitHub Contribution Calendar"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 🌊 Contribution FX
 
-<div align="center">
-
 ### 💧 Ripple Effect
 
-<a href="https://github.com/Sur1ive/contribution-fx">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-ripple-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-ripple.svg" width="100%" alt="Animated contribution ripple"/>
-</picture>
-</a>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-ripple.svg"
+    alt="Animated contribution ripple"
+    width="100%"
+  />
+</p>
 
 ### 🎛️ Equalizer Effect
 
-<a href="https://github.com/Sur1ive/contribution-fx">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-equalizer-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-equalizer.svg" width="100%" alt="Animated contribution equalizer"/>
-</picture>
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-equalizer.svg"
+    alt="Animated contribution equalizer"
+    width="100%"
+  />
+</p>
 
 ---
 
