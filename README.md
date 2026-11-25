@@ -105,7 +105,6 @@ Outside of SEO and software development, I'm expanding my skills in Linux, netwo
   <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <p align="center">
