@@ -120,18 +120,6 @@ flowchart LR
 
 ---
 
-## `$ learning --progress`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2300&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=35&lines=LINUX+ADMINISTRATION;DOCKER+%26+CONTAINERIZATION;NETWORKING+%26+DNS;PYTHON+AUTOMATION;CI%2FCD+%26+INFRASTRUCTURE+AS+CODE" />
-
-<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,nginx,git,github,ansible,terraform&theme=dark"/>
-
-</div>
-
----
-
 ## `$ github --telemetry`
 
 <div align="center">
