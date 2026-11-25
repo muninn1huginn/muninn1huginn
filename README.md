@@ -18,7 +18,9 @@ Building software, automating workflows and exploring infrastructure through han
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4&section=header" width="100%" alt="" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -36,7 +38,9 @@ Outside of SEO and software development, I'm expanding my skills in Linux, netwo
 - 🐧 **Systems:** Linux, networking, containers and system administration.
 - 🏠 **Homelab:** Virtualization, NAS, self-hosted services and home automation.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 💼 Professional Experience
 
@@ -64,7 +68,9 @@ Outside of SEO and software development, I'm expanding my skills in Linux, netwo
 - Worked with domain acquisition, historical analysis, backlink profiles and website restoration.
 - Developed experience in large-scale website management and technical SEO.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -102,7 +108,9 @@ Outside of SEO and software development, I'm expanding my skills in Linux, netwo
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 🌱 Currently Learning
 
@@ -122,7 +130,9 @@ My current focus is on building practical IT and DevOps foundations through hand
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -135,7 +145,9 @@ My current focus is on building practical IT and DevOps foundations through hand
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muninn1huginn&hide_border=true&background=0D1117&ring=00FF41&fire=00A86B&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 🐍 Contribution Activity
 
@@ -147,7 +159,9 @@ My current focus is on building practical IT and DevOps foundations through hand
   </picture>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,20:003B16,50:00FF41,80:003B16,100:000000&height=4" width="100%" alt="" />
+</p>
 
 ## 🤝 Let's Connect
 
