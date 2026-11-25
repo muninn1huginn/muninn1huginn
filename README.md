@@ -1,4 +1,4 @@
-# 👋 Hey, I'm a SEO Specialist
+# 👋 Hey, I'm Mykola
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=200&section=header&text=SEO%20%7C%20TECH%20%7C%20AUTOMATION&fontSize=30&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Search%20Optimization%20%2F%20Automation%20%2F%20Infrastructure&descSize=13&descColor=98FF98&descAlignY=58" width="100%" />
@@ -6,9 +6,9 @@
 
 <div align="center">
 
-**SEO Specialist · Technical SEO · Automation · Homelab**
+**SEO & Technical SEO · SaaS Developer · Linux & Infrastructure**
 
-Building better workflows, exploring technology and learning how infrastructure works.
+Building software, automating workflows and exploring infrastructure through hands-on projects.
 
 <br/>
 
@@ -22,18 +22,47 @@ Building better workflows, exploring technology and learning how infrastructure 
 
 ## 👨‍💻 About Me
 
-I'm a **SEO Specialist** interested in the intersection of search optimization, software, automation and infrastructure.
+I'm a technology-oriented professional with a background in **SEO, team leadership and SaaS development**.
 
-My professional background is in SEO, with a particular interest in technical aspects of search: website architecture, crawling, indexing and performance.
+Over the years, I've worked with large-scale websites, technical SEO, website infrastructure, automation and international projects. I also independently built and launched **Seotica.pro**, an SEO SaaS platform, using AI-assisted development.
 
-Outside of SEO, I'm expanding my technical skills through hands-on practice with Linux, scripting, networking and self-hosted infrastructure. I enjoy understanding how things work, solving problems and building practical solutions.
+Outside of SEO and software development, I'm expanding my skills in Linux, networking, system administration and DevOps through hands-on homelab projects.
 
 **What I'm interested in:**
 
-- 🔎 **SEO & Search:** Technical SEO, website optimization, crawling and indexing.
-- ⚙️ **Automation:** Python, Bash, scripting and workflow improvements.
-- 🐧 **Systems:** Linux, networking, containers and infrastructure.
+- 🔎 **SEO & Search:** Technical SEO, website architecture, crawling and indexing.
+- 💻 **Development:** SaaS products, Python, Bash and AI-assisted development.
+- ⚙️ **Automation:** Scripting, workflow optimization and infrastructure automation.
+- 🐧 **Systems:** Linux, networking, containers and system administration.
 - 🏠 **Homelab:** Virtualization, NAS, self-hosted services and home automation.
+
+---
+
+## 💼 Professional Experience
+
+### Seotica.pro — SEO & AI Developer
+*December 2025 – Present · Personal Project*
+
+- Designed and launched an SEO SaaS platform independently, from concept to production, using AI-assisted development.
+- Built tools for SERP analysis, keyword clustering, AI-assisted content briefs, link building and technical SEO audits of up to 100,000 pages.
+- Designed modular workflows with role-based access for SEO specialists, copywriters and link builders.
+
+### Boosta — SEO Specialist → Team Lead → Upper Middle SEO
+*December 2022 – September 2025*
+
+- Managed a team of 3 specialists, coordinating sprint planning, task distribution, deadlines and deliverables.
+- Managed international SEO projects across 5 markets, covering technical SEO, crawling, indexing and hreflang.
+- Performed technical audits using Screaming Frog and server log analysis.
+- Worked with developers on technical requirements for indexing, website performance and structured data.
+- Managed PBN infrastructure with up to 100 domains.
+
+### EvoPlay — SEO Specialist
+*November 2020 – November 2022*
+
+- Launched and optimized websites from scratch, including technical configuration, architecture and indexing.
+- Managed PBN infrastructure consisting of 200–300 websites.
+- Worked with domain acquisition, historical analysis, backlink profiles and website restoration.
+- Developed experience in large-scale website management and technical SEO.
 
 ---
 
@@ -41,36 +70,37 @@ Outside of SEO, I'm expanding my technical skills through hands-on practice with
 
 ### 🔎 SEO & Analytics
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Screaming_Frog-4B8B3B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Ahrefs-FF8C00?style=for-the-badge&logoColor=white" />
+</div>
 
-### ⚙️ Development & Automation
+### 💻 Development & Automation
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode&theme=dark" />
-</p>
+</div>
 
 ### 🐧 Linux & Infrastructure
 
-<p>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,nginx,ansible,terraform&theme=dark" />
-</p>
+</div>
 
 ### 🏠 Homelab
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
   <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white" />
-  <img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
 ---
 
@@ -78,8 +108,10 @@ Outside of SEO, I'm expanding my technical skills through hands-on practice with
 
 I use my homelab as a practical environment for learning, experimenting and understanding how systems operate.
 
+<div align="center">
+
 | Area | Technologies & Interests |
-|:---|:---|
+|:---:|:---:|
 | **Virtualization** | Proxmox VE, Virtual Machines, LXC |
 | **Storage** | TrueNAS, NAS, Datasets, File Sharing |
 | **Containers** | Docker, Docker Compose |
@@ -89,20 +121,27 @@ I use my homelab as a practical environment for learning, experimenting and unde
 | **Hardware** | Raspberry Pi, Single-board Computers |
 | **Monitoring** | Logs, Service Health, System Metrics |
 
+</div>
+
 ---
 
 ## 🌱 Currently Learning
 
 My current focus is on building practical IT and DevOps foundations through hands-on projects and homelab experiments.
 
+<div align="center">
+
 | Topic | Learning Focus |
-|:---|:---|
-| 🐧 **Linux** | Command line, permissions, users, processes, services and system administration |
+|:---:|:---:|
+| 🐧 **Linux** | Command line, permissions, users, processes, systemd |
 | 🌐 **Networking** | TCP/IP, DNS, HTTP, routing and troubleshooting |
 | 🐳 **Docker** | Images, containers, volumes, networking and Compose |
 | 🐍 **Python** | Scripting, APIs and task automation |
 | ⚙️ **DevOps** | Git, CI/CD fundamentals, deployment and infrastructure |
-| 🏠 **Homelab** | Proxmox, self-hosted services and system management |
+| 📊 **Monitoring** | Logs, metrics, service health and observability |
+| 🏠 **Homelab** | Proxmox, self-hosted services and system administration |
+
+</div>
 
 ---
 
@@ -131,22 +170,11 @@ My current focus is on building practical IT and DevOps foundations through hand
 
 ---
 
-## 💡 Beyond the Code
-
-I believe the best way to learn technology is to build, experiment and solve real problems.
-
-- 🧪 **Experiment:** Learn by testing, breaking and troubleshooting things.
-- 🏠 **Self-host:** Explore services and build a personal infrastructure.
-- ⚡ **Automate:** Find ways to make repetitive tasks simpler and more efficient.
-- 🔍 **Explore:** Connect ideas from SEO, software and systems engineering.
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to connecting with people interested in SEO, technology, automation and infrastructure.
+I'm always open to connecting with people interested in SEO, software development, automation and infrastructure.
 
 <br/>
 
