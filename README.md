@@ -29,7 +29,6 @@ My background is in SEO, but my curiosity goes beyond search engines. I enjoy un
 
 ---
 
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <h3 align="center">🔎 SEO & Analytics</h3>
@@ -150,6 +149,30 @@ My background is in SEO, but my curiosity goes beyond search engines. I enjoy un
 - 🏠 Experimenting with self-hosted services and homelab infrastructure.
 - ⚡ Finding ways to automate repetitive tasks.
 - 🔍 Exploring how technology can make SEO workflows more efficient.
+
+---
+
+<div align="center">
+
+<h2>🤝 Let's Connect</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Always+open+to+new+connections;Let's+share+ideas+and+experiences;SEO+%7C+Technology+%7C+Automation" alt="Let's Connect"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mykola-yaremchuk/">
+  <img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-14264B?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=footer" width="65%"/>
+
+<p>
+  <sub>💬 Always happy to connect, exchange knowledge and explore new opportunities.</sub>
+</p>
+
+</div>
 
 ---
 
