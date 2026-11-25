@@ -2,10 +2,8 @@
 # 👋 Hey there! I'm a SEO Specialist
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:14264B,100:5031A5&height=210&section=header&text=SEO%20%7C%20TECH%20%7C%20AUTOMATION&fontSize=29&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Optimizing%20websites.%20Automating%20workflows.%20Exploring%20infrastructure.&descSize=13&descAlignY=57" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=SEO+Specialist+%7C+Technical+SEO;Exploring+Linux+%26+DevOps;Automation+%7C+Python+%7C+Infrastructure;Building%2C+Learning+%26+Experimenting" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=210&section=header&text=SEO%20%7C%20TECH%20%7C%20AUTOMATION&fontSize=29&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Optimizing%20websites.%20Automating%20workflows.%20Exploring%20infrastructure.&descSize=13&descColor=98FF98&descAlignY=57" width="100%"/>
+</div>
 
 <br/>
 
@@ -331,9 +329,5 @@ Connecting technology with SEO workflows.
 <br/>
 
 <div align="center">
-
-**Optimize. Automate. Experiment. Repeat.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5031A5,50:14264B,100:080B16&height=120&section=footer&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B16,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
