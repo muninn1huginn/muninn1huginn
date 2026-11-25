@@ -71,7 +71,7 @@ Currently expanding my knowledge beyond traditional SEO and exploring the world 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muninn1huginn&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -79,7 +79,7 @@ Currently expanding my knowledge beyond traditional SEO and exploring the world 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/muninn1huginn/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
