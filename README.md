@@ -146,30 +146,6 @@ BUILD > TEST > DEPLOY
 
 ---
 
-## `$ contribution --visualize`
-
-<div align="center">
-
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar"/>
-
-<br/>
-
-### ⚡ CONTRIBUTION EFFECTS
-
-<img src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-ripple.svg" width="100%" alt="Contribution Ripple"/>
-
-<img src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/contribution-equalizer.svg" width="100%" alt="Contribution Equalizer"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=BC8CFF&center=true&vCenter=true&width=750&height=45&lines=THINK+IN+SYSTEMS.;BUILD+WITH+PURPOSE.;AUTOMATE+THE+REPETITIVE.;KEEP+ENGINEERING." />
-
-<br/>
-
 **ENGINEERING · AUTOMATION · CONTINUOUS LEARNING**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7047C6,50:14264B,100:050816&height=110&section=footer&animation=twinkling" width="100%"/>
