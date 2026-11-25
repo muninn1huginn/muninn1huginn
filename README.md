@@ -20,7 +20,9 @@ Building software, automating workflows and exploring infrastructure through han
 
 </div>
 
----
+<div align="center">
+  <img src="assets/neon-divider.gif" width="100%" height="4" />
+</div>
 
 ## 👨‍💻 About Me
 
