@@ -95,27 +95,28 @@ flowchart LR
 
 ---
 
-## `$ homelab --status`
+## `$ homelab --infrastructure`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NAS-TrueNAS-0095D5?style=flat-square&logo=truenas"/>
-<img src="https://img.shields.io/badge/SYNC-Syncthing-0891D1?style=flat-square&logo=syncthing"/>
-<img src="https://img.shields.io/badge/SHELL-Bash-4EAA25?style=flat-square&logo=gnubash"/>
-<img src="https://img.shields.io/badge/CONTAINERS-Docker-2496ED?style=flat-square&logo=docker"/>
+### VIRTUALIZATION & COMPUTE
+
+<img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=flat-square&logo=linux&logoColor=white"/>
+
+### STORAGE & SYNCHRONIZATION
+
+<img src="https://img.shields.io/badge/TrueNAS-Storage-0095D5?style=flat-square&logo=truenas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Syncthing-File_Sync-0891D1?style=flat-square&logo=syncthing&logoColor=white"/>
+
+### SELF-HOSTED SERVICES & NETWORKING
+
+<img src="https://img.shields.io/badge/Homepage-Dashboard-1C1C1C?style=flat-square&logo=homeassistant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Home_Networking-Infrastructure-607D8B?style=flat-square&logo=cisco&logoColor=white"/>
 
 </div>
 
-```bash
-$ uname -s
-Linux
-
-$ ls /engineering
-linux/  docker/  networking/  automation/
-
-$ echo "BUILD > TEST > DEPLOY"
-BUILD > TEST > DEPLOY
-```
+**Focus areas:** Virtualization · Containerization · Self-hosting · Storage · Networking · Infrastructure Automation
 
 ---
 
