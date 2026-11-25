@@ -100,22 +100,47 @@ My background is in SEO, but my curiosity goes beyond search engines. I enjoy un
 
 ---
 
-## 🌱 Currently Learning
 
-<div align="center">
+<h2 align="center">🌱 Currently Learning</h2>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,networking,ansible,terraform" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,bash,ansible,terraform"/>
+</p>
 
-</div>
-
-| Technology | Focus |
-|---|---|
-| 🐧 **Linux** | Administration, permissions, processes and services |
-| 🐳 **Docker** | Containers, images, volumes and Compose |
-| 🌐 **Networking** | TCP/IP, DNS, HTTP and troubleshooting |
-| 🐍 **Python** | Scripting, APIs and automation |
-| ☁️ **DevOps** | CI/CD, infrastructure and deployment |
-| 🏠 **Homelab** | Proxmox, Raspberry Pi and self-hosted services |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Technology</th>
+      <th align="center">Learning Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🐧 <b>Linux</b></td>
+      <td align="center">Administration, permissions, processes and services</td>
+    </tr>
+    <tr>
+      <td align="center">🐳 <b>Docker</b></td>
+      <td align="center">Containers, images, volumes and Compose</td>
+    </tr>
+    <tr>
+      <td align="center">🌐 <b>Networking</b></td>
+      <td align="center">TCP/IP, DNS, HTTP and troubleshooting</td>
+    </tr>
+    <tr>
+      <td align="center">🐍 <b>Python</b></td>
+      <td align="center">Scripting, APIs and automation</td>
+    </tr>
+    <tr>
+      <td align="center">☁️ <b>DevOps</b></td>
+      <td align="center">CI/CD, infrastructure and deployment</td>
+    </tr>
+    <tr>
+      <td align="center">🏠 <b>Homelab</b></td>
+      <td align="center">Proxmox, Raspberry Pi and self-hosted services</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
