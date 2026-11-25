@@ -29,44 +29,37 @@ My background is in SEO, but my curiosity goes beyond search engines. I enjoy un
 
 ---
 
-## 🛠️ Tech Stack & Tools
 
-**🔎 SEO & Analytics**
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=google-search-console&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Screaming_Frog-4B8B3B?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+<h3 align="center">🔎 SEO & Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=flat-square&logo=google-search-console&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Screaming_Frog-4B8B3B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+</p>
 
-**⚙️ Development & Automation**
+<h3 align="center">⚙️ Development & Automation</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode" />
+<h3 align="center">🐧 Linux & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,ansible,terraform"/>
+</p>
 
-**🐧 Linux & DevOps**
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,ansible,terraform" />
-
-**🏠 Homelab & Infrastructure**
-
-<div>
-
-<img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white"/> <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white"/> <img src="https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white"/> <img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=flat-square&logo=linux&logoColor=white"/>
-
-</div>
-
----
-
-## 🏗️ Homelab & Infrastructure
-
-Exploring self-hosted infrastructure and building a personal environment to learn how real-world systems work.
-
-| Area | Technologies & Focus |
-|---|---|
-| **Virtualization** | Proxmox VE, virtual machines, LXC |
-| **Single-board computers** | Raspberry Pi, lightweight services |
-| **Storage** | TrueNAS, NAS, datasets, file sharing |
-| **Containers** | Docker, Docker Compose |
-| **Home Automation** | Home Assistant, Zigbee, integrations |
-| **Synchronization** | Syncthing, multi-device sync |
-| **Networking** | TCP/IP, DNS, routing, network services |
-| **Monitoring** | Service health, logs, system metrics |
+<h3 align="center">🏠 Homelab & Infrastructure</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=flat-square&logo=linux&logoColor=white"/>
+</p>
 
 ---
 
