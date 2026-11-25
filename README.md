@@ -1,333 +1,167 @@
-
-# 👋 Hey there! I'm a SEO Specialist
+# 👋 Hey, I'm a SEO Specialist
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=210&section=header&text=SEO%20%7C%20TECH%20%7C%20AUTOMATION&fontSize=29&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Optimizing%20websites.%20Automating%20workflows.%20Exploring%20infrastructure.&descSize=13&descColor=98FF98&descAlignY=57" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=200&section=header&text=SEO%20%7C%20TECH%20%7C%20AUTOMATION&fontSize=30&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Search%20Optimization%20%2F%20Automation%20%2F%20Infrastructure&descSize=13&descColor=98FF98&descAlignY=58" width="100%" />
 </div>
+
+<div align="center">
+
+**SEO Specialist · Technical SEO · Automation · Homelab**
+
+Building better workflows, exploring technology and learning how infrastructure works.
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-3FB950?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-SEO_%7C_TECH_%7C_AUTOMATION-14264B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MINDSET-BUILDING-5031A5?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-TECHNICAL_SEO-00A86B?style=flat-square" />
+<img src="https://img.shields.io/badge/INTERESTS-AUTOMATION-00A86B?style=flat-square" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-00A86B?style=flat-square" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+## 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=11&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=750&height=20&lines=01001101+01000001+01010100+01010010+01001001+01011000+%7C+SYSTEM+INITIALIZED" />
+I'm a **SEO Specialist** interested in the intersection of search optimization, software, automation and infrastructure.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001B0A,50:00FF41,100:001B0A&height=2&section=header" width="100%"/>
+My professional background is in SEO, with a particular interest in technical aspects of search: website architecture, crawling, indexing and performance.
 
-</div>
+Outside of SEO, I'm expanding my technical skills through hands-on practice with Linux, scripting, networking and self-hosted infrastructure. I enjoy understanding how things work, solving problems and building practical solutions.
 
-<h2 align="center">👨‍💻 About Me</h2>
+**What I'm interested in:**
 
-I'm interested in the intersection of **SEO, software, automation and infrastructure**.
+- 🔎 **SEO & Search:** Technical SEO, website optimization, crawling and indexing.
+- ⚙️ **Automation:** Python, Bash, scripting and workflow improvements.
+- 🐧 **Systems:** Linux, networking, containers and infrastructure.
+- 🏠 **Homelab:** Virtualization, NAS, self-hosted services and home automation.
 
-My background is in SEO, but my curiosity goes beyond search engines. I enjoy understanding how systems work, automating repetitive tasks, building useful tools and experimenting with self-hosted infrastructure.
+---
 
-<div align="center">
+## 🛠️ Tech Stack & Tools
 
-<table>
-<tr>
-<td align="center" width="50%">
+### 🔎 SEO & Analytics
 
-### 🔎 SEO & Growth
+<p>
+  <img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Screaming_Frog-4B8B3B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
 
-Technical SEO, crawling, indexing and organic performance.
+### ⚙️ Development & Automation
 
-</td>
-<td align="center" width="50%">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode&theme=dark" />
+</p>
 
-### ⚙️ Automation
+### 🐧 Linux & Infrastructure
 
-Python, Bash, scripting and workflow optimization.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🐧 Systems & DevOps
-
-Linux, networking, containers and infrastructure.
-
-</td>
-<td align="center" width="50%">
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,ansible,terraform&theme=dark" />
+</p>
 
 ### 🏠 Homelab
 
-Virtualization, NAS, Raspberry Pi and self-hosted services.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=700&color=3FB950&center=true&vCenter=true&width=550&height=30&lines=%24+whoami;%3E+SEO+%26+Technical+Optimization;%3E+Automation+%26+Scripting;%3E+Linux+%26+Infrastructure;%3E+Always+building+something+useful" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
-
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-<h3 align="center">🔎 SEO & Analytics</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Screaming_Frog-4B8B3B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white" />
+  <img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Development & Automation</h3>
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode&theme=dark"/>
-</p>
+## 🏗️ Homelab & Infrastructure
 
-<h3 align="center">🐧 Linux & DevOps</h3>
+I use my homelab as a practical environment for learning, experimenting and understanding how systems operate.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,ansible,terraform&theme=dark"/>
-</p>
+| Area | Technologies & Interests |
+|:---|:---|
+| **Virtualization** | Proxmox VE, Virtual Machines, LXC |
+| **Storage** | TrueNAS, NAS, Datasets, File Sharing |
+| **Containers** | Docker, Docker Compose |
+| **Networking** | TCP/IP, DNS, Routing, Network Services |
+| **Home Automation** | Home Assistant, Zigbee, Integrations |
+| **Synchronization** | Syncthing, Multi-device Sync |
+| **Hardware** | Raspberry Pi, Single-board Computers |
+| **Monitoring** | Logs, Service Health, System Metrics |
 
-<h3 align="center">🏠 Homelab & Infrastructure</h3>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white"/>
-<img src="https://img.shields.io/badge/Syncthing-0891D1?style=for-the-badge&logo=syncthing&logoColor=white"/>
-<img src="https://img.shields.io/badge/LXC-Containers-2496ED?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+## 🌱 Currently Learning
 
-<br/>
+My current focus is on building practical IT and DevOps foundations through hands-on projects and homelab experiments.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
+| Topic | Learning Focus |
+|:---|:---|
+| 🐧 **Linux** | Command line, permissions, users, processes, services and system administration |
+| 🌐 **Networking** | TCP/IP, DNS, HTTP, routing and troubleshooting |
+| 🐳 **Docker** | Images, containers, volumes, networking and Compose |
+| 🐍 **Python** | Scripting, APIs and task automation |
+| ⚙️ **DevOps** | Git, CI/CD fundamentals, deployment and infrastructure |
+| 🏠 **Homelab** | Proxmox, self-hosted services and system management |
 
-<h2 align="center">🏗️ Homelab & Infrastructure</h2>
+---
 
-<p align="center">
-Exploring self-hosted infrastructure and building a personal environment to learn how real-world systems work.
-</p>
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<table>
-<tr>
-<th align="center">Area</th>
-<th align="center">Technologies & Focus</th>
-</tr>
-<tr>
-<td align="center">🖥️ Virtualization</td>
-<td align="center">Proxmox VE, Virtual Machines, LXC</td>
-</tr>
-<tr>
-<td align="center">🍓 Single-board Computers</td>
-<td align="center">Raspberry Pi, Lightweight Services</td>
-</tr>
-<tr>
-<td align="center">💾 Storage</td>
-<td align="center">TrueNAS, NAS, Datasets, File Sharing</td>
-</tr>
-<tr>
-<td align="center">🐳 Containers</td>
-<td align="center">Docker, Docker Compose</td>
-</tr>
-<tr>
-<td align="center">🏠 Home Automation</td>
-<td align="center">Home Assistant, Zigbee, Integrations</td>
-</tr>
-<tr>
-<td align="center">🔄 Synchronization</td>
-<td align="center">Syncthing, Multi-device Sync</td>
-</tr>
-<tr>
-<td align="center">🌐 Networking</td>
-<td align="center">TCP/IP, DNS, Routing, Network Services</td>
-</tr>
-<tr>
-<td align="center">📈 Monitoring</td>
-<td align="center">Service Health, Logs, System Metrics</td>
-</tr>
-</table>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muninn1huginn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00A86B&text_color=C9D1D9&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muninn1huginn&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" />
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muninn1huginn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muninn1huginn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-<br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=muninn1huginn&theme=tokyonight&hide_border=true&background=0D1117&ring=BC8CFF&fire=58A6FF&currStreakLabel=58A6FF"/>
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muninn1huginn&hide_border=true&background=0D1117&ring=00FF41&fire=00A86B&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
-
-<h2 align="center">🐍 Contribution Activity</h2>
+## 🐍 Contribution Activity
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=550&height=25&lines=Every+contribution+is+part+of+the+journey;Consistency+%7C+Learning+%7C+Building" />
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution activity" src="https://raw.githubusercontent.com/muninn1huginn/muninn1huginn/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
+## 💡 Beyond the Code
 
-<h2 align="center">🌱 Currently Learning</h2>
+I believe the best way to learn technology is to build, experiment and solve real problems.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,python,bash,ansible,terraform&theme=dark"/>
-</p>
+- 🧪 **Experiment:** Learn by testing, breaking and troubleshooting things.
+- 🏠 **Self-host:** Explore services and build a personal infrastructure.
+- ⚡ **Automate:** Find ways to make repetitive tasks simpler and more efficient.
+- 🔍 **Explore:** Connect ideas from SEO, software and systems engineering.
 
-<div align="center">
+---
 
-<table>
-<tr>
-<th align="center">Technology</th>
-<th align="center">Learning Focus</th>
-</tr>
-<tr>
-<td align="center">🐧 <b>Linux</b></td>
-<td align="center">Administration, Permissions, Processes & Services</td>
-</tr>
-<tr>
-<td align="center">🐳 <b>Docker</b></td>
-<td align="center">Containers, Images, Volumes & Compose</td>
-</tr>
-<tr>
-<td align="center">🌐 <b>Networking</b></td>
-<td align="center">TCP/IP, DNS, HTTP & Troubleshooting</td>
-</tr>
-<tr>
-<td align="center">🐍 <b>Python</b></td>
-<td align="center">Scripting, APIs & Automation</td>
-</tr>
-<tr>
-<td align="center">☁️ <b>DevOps</b></td>
-<td align="center">CI/CD, Infrastructure & Deployment</td>
-</tr>
-<tr>
-<td align="center">🏠 <b>Homelab</b></td>
-<td align="center">Proxmox, Raspberry Pi & Self-hosted Services</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:14264B,100:5031A5&height=2&section=header" width="100%"/>
-
-<h2 align="center">💡 Beyond the Code</h2>
+## 🤝 Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-🧪 **Experiment**
-
-Learning by building, testing and troubleshooting.
-
-</td>
-<td align="center" width="50%">
-
-🏠 **Self-host**
-
-Exploring self-hosted services and homelab infrastructure.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-⚡ **Automate**
-
-Finding smarter ways to handle repetitive tasks.
-
-</td>
-<td align="center" width="50%">
-
-🔍 **Explore**
-
-Connecting technology with SEO workflows.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001B0A,25:003B16,50:00FF41,75:003B16,100:001B0A&height=3&section=header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=20&lines=01001101+01000001+01010100+01010010+01001001+01011000" />
-
-</div>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=45&lines=Always+open+to+new+connections;Let's+share+ideas+and+experiences;SEO+%7C+Technology+%7C+Automation" alt="Let's Connect"/>
+I'm always open to connecting with people interested in SEO, technology, automation and infrastructure.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mykola-yaremchuk/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-14264B?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>💬 Always happy to connect, exchange knowledge and explore new opportunities.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001B0A,25:003B16,50:00FF41,75:003B16,100:001B0A&height=3&section=footer" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=700&height=20&lines=SYSTEM+ONLINE+%7C+KEEP+BUILDING+%7C+KEEP+EXPLORING" />
+**Optimize. Automate. Experiment. Repeat.**
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B16,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B16,100:000000&height=110&section=footer" width="100%" />
 </div>
